@@ -1,0 +1,35 @@
+name: Build
+on:
+    push:
+    workflow_dispatch:
+
+jobs:
+    deploy:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Check out the repo
+              uses: actions/checkout@v4
+
+            - name: Use GoLang
+              uses: actions/setup-go@v5
+              with:
+                  cache: true
+                  cache-dependency-path: go.sum
+                  go-version-file: go.mod
+
+            - name: Extract branch name
+              shell: bash
+              run: echo "branch=${GITHUB_HEAD_REF:-${GITHUB_REF#refs/heads/}}" >> $GITHUB_OUTPUT
+              id: extract_branch
+
+            - name: Build Binary
+              run: CGO_ENABLED=0 GOOS=linux GOARCH=amd64 go build -ldflags="-w -s" -o domain_exporter
+
+            - name: Build and Publish head Docker image
+              if: github.ref_name == 'main'
+              uses: VaultVulp/gp-docker-action@1.5.0
+              with:
+                  github-token: ${{ secrets.GITHUB_TOKEN }}
+                  image-name: backend
+                  image-tag: ${{ github.ref_name }}
+                  dockerfile: Dockerfile

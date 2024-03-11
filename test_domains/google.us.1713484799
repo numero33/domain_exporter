@@ -1,0 +1,167 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.us
+
+domain:       US
+
+organisation: Registry Services, LLC
+address:      2155 E Godaddy Way
+address:      Tempe AZ 85284
+address:      United States of America (the)
+
+contact:      administrative
+name:         IANA Contact
+organisation: Registry Services, LLC
+address:      2155 E. Godaddy Way
+address:      Tempe AZ 85284
+address:      United States of America (the)
+phone:        +1 480 505 8800
+fax-no:       +1 480 393 4275
+e-mail:       iana@about.us
+
+contact:      technical
+name:         IANA Contact
+organisation: Registry Services, LLC
+address:      2155 E. Godaddy Way
+address:      Tempe AZ 85284
+address:      United States of America (the)
+phone:        +1 480 505 8800
+fax-no:       +1 480 393 4275
+e-mail:       iana@about.us
+
+nserver:      B.CCTLD.US 156.154.125.70 2001:502:ad09:0:0:0:0:29
+nserver:      F.CCTLD.US 2001:500:3682:0:0:0:0:11 209.173.58.70
+nserver:      K.CCTLD.US 156.154.128.70 2001:503:e239:0:0:0:3:1
+nserver:      W.CCTLD.US 2001:dcd:1:0:0:0:0:15 37.209.192.15
+nserver:      X.CCTLD.US 2001:dcd:2:0:0:0:0:15 37.209.194.15
+nserver:      Y.CCTLD.US 2001:dcd:3:0:0:0:0:15 37.209.196.15
+ds-rdata:     59017 8 2 7daf469d42b5d8e5537fd4dd4b6057710e9a61f72c32eb7fb6526f52277ec2b0
+
+whois:        whois.nic.us
+
+status:       ACTIVE
+remarks:      Registration information: http://www.nic.us
+
+created:      1985-02-15
+changed:      2023-12-13
+source:       IANA
+
+# whois.nic.us
+
+Domain Name: google.us
+Registry Domain ID: D775573-US
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: www.markmonitor.com
+Updated Date: 2023-03-22T10:20:42Z
+Creation Date: 2002-04-19T23:16:01Z
+Registry Expiry Date: 2024-04-18T23:59:59Z
+Registrar: MarkMonitor, Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: registry.admin@markmonitor.com
+Registrar Abuse Contact Phone: +1.2083895740
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Registry Registrant ID: C37454483-US
+Registrant Name: Google LLC
+Registrant Organization: Google LLC
+Registrant Street: 1600 Amphitheatre Parkway
+Registrant Street:
+Registrant Street:
+Registrant City: Mountain View
+Registrant State/Province: CA
+Registrant Postal Code: 94043
+Registrant Country: US
+Registrant Phone: +1.6502530000
+Registrant Phone Ext:
+Registrant Fax: +1.6502530001
+Registrant Fax Ext:
+Registrant Email: dns-admin@google.com
+Registrant Application Purpose: P1
+Registrant Nexus Category: C21
+Registry Admin ID: C37613731-US
+Admin Name: Rajiv Prasad
+Admin Organization: Google LLC
+Admin Street: 1600 Amphitheatre Parkway
+Admin Street:
+Admin Street:
+Admin City: Mountain View
+Admin State/Province: CA
+Admin Postal Code: 94043
+Admin Country: US
+Admin Phone: +1.6502530000
+Admin Phone Ext:
+Admin Fax: +1.6502530001
+Admin Fax Ext:
+Admin Email: dns-admin@google.com
+Admin Application Purpose: P1
+Admin Nexus Category: C21
+Registry Tech ID: C37613731-US
+Tech Name: Rajiv Prasad
+Tech Organization: Google LLC
+Tech Street: 1600 Amphitheatre Parkway
+Tech Street:
+Tech Street:
+Tech City: Mountain View
+Tech State/Province: CA
+Tech Postal Code: 94043
+Tech Country: US
+Tech Phone: +1.6502530000
+Tech Phone Ext:
+Tech Fax: +1.6502530001
+Tech Fax Ext:
+Tech Email: dns-admin@google.com
+Tech Application Purpose: P1
+Tech Nexus Category: C21
+Name Server: ns1.google.com
+Name Server: ns2.google.com
+Name Server: ns3.google.com
+Name Server: ns4.google.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2024-03-11T15:25:29Z <<<
+
+# whois.markmonitor.com
+
+Domain Name: google.us
+Registry Domain ID: D775573-US
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2023-10-25T18:32:29+0000
+Creation Date: 2002-04-19T07:00:00+0000
+Registrar Registration Expiration Date: 2024-04-18T00:00:00+0000
+Registrar: MarkMonitor, Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+Registrar Abuse Contact Phone: +1.2086851750
+Domain Status: clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+Domain Status: clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+Domain Status: serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)
+Domain Status: serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)
+Domain Status: serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)
+Registrant Organization: Google LLC
+Registrant State/Province: CA
+Registrant Country: US
+Registrant Email: Select Request Email Form at https://domains.markmonitor.com/whois/google.us
+Admin Organization: Google LLC
+Admin State/Province: CA
+Admin Country: US
+Admin Email: Select Request Email Form at https://domains.markmonitor.com/whois/google.us
+Tech Organization: Google LLC
+Tech State/Province: CA
+Tech Country: US
+Tech Email: Select Request Email Form at https://domains.markmonitor.com/whois/google.us
+Name Server: ns4.google.com
+Name Server: ns1.google.com
+Name Server: ns2.google.com
+Name Server: ns3.google.com
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2024-03-11T15:24:35+0000 <<<
+

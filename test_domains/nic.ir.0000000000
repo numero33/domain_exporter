@@ -1,0 +1,76 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.ir
+
+domain:       IR
+
+organisation: Institute for Research in Fundamental Sciences
+address:      Shahid Bahonar (Niavaran) Square
+address:      Tehran 1954851167
+address:      Iran (Islamic Republic of)
+
+contact:      administrative
+name:         Director
+organisation: Institute for Research in Fundamental Sciences (IPM)
+address:      Shahid Bahonar (Niavaran) Square
+address:      Tehran 1954851167
+address:      Iran (Islamic Republic of)
+phone:        +98 21 22828081
+fax-no:       +98 21 22295700
+e-mail:       admin@irnic.ir
+
+contact:      technical
+name:         CTO
+organisation: Institute for Research in Fundamental Sciences (IPM)
+address:      Shahid Bahonar (Niavaran) Square
+address:      Tehran 1954851167
+address:      Iran (Islamic Republic of)
+phone:        +98 21 22828080
+fax-no:       +98 21 22295700
+e-mail:       cto@irnic.ir
+
+nserver:      A.NIC.IR 193.189.123.2 2001:678:b0:0:193:189:123:2
+nserver:      B.NIC.IR 193.189.122.83 2001:678:b1:0:193:189:122:83
+nserver:      C.NIC.IR 141.95.65.136 2001:41d0:700:5d88:0:0:0:0
+nserver:      D.NIC.IR 194.225.70.83 2001:14e8:c:0:194:225:70:83
+ds-rdata:     47300 13 2 7ab287956a55abd60dc8697c2049738fd5eeab6f2070152b015d59929521dada
+ds-rdata:     47300 13 4 fe3a9bfd3aed31cbd1e2f6b45c88d81b5cca68cdc9d46080c1c4afbd491ae3a9f6dfbfc4320111144c375d648ae3cdf6
+
+whois:        whois.nic.ir
+
+status:       ACTIVE
+remarks:      Registration information: http://www.nic.ir
+
+created:      1994-04-06
+changed:      2023-10-17
+source:       IANA
+
+# whois.nic.ir
+
+% This is the IRNIC Whois server v1.6.2.
+% Available on web at http://whois.nic.ir/
+% Find the terms and conditions of use on http://www.nic.ir/
+% 
+% This server uses UTF-8 as the encoding for requests and responses.
+
+% NOTE: This output has been filtered.
+
+% Information related to 'nic.ir'
+
+
+domain:		nic.ir
+ascii:		nic.ir
+nserver:	b.nic.ir
+nserver:	ir.cctld.authdns.ripe.net
+source:		IRNIC # Filtered
+
+
+
+domain:		nic.ir
+ascii:		nic.ir
+status:		Restricted
+remarks:	This domain is only available for registration under certain conditions
+source:		IRNIC # Filtered
+
